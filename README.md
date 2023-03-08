@@ -3,6 +3,8 @@ The schematics, PCB, and flash dumps of two versions of the GBC Pelican Monster 
 
 All components labeled "Unknown" in the schematic were not present on the commercial PCB. Only their footprints existed.
 
+The Colorizer button PCB wires solder to the inner two pads of the 4 at the rear top edge of the PCB.
+
 Jumper configuration for normal operation: 
 
 - J1: Pads 2 and 3 are shorted.
