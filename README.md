@@ -5,7 +5,7 @@ All components labeled "Unknown" in the schematic were not present on the commer
 
 Jumper configuration for normal operation: 
 
-- J1: pads 2 and 3 are shorted.
+- J1: Pads 2 and 3 are shorted.
 - J2: Open.
 - J3: Shorted.
 - J4: Shorted.
