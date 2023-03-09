@@ -18,3 +18,4 @@ Jumper configuration for normal operation:
 PCB Thickness: 0.8 mm
 
 ![image](https://github.com/RWeick/G0-022M6-Pelican-Monster-Brain-for-GBC/blob/main/MonsterBrain.png)
+![image](https://github.com/RWeick/G0-022M6-Pelican-Monster-Brain-for-GBC/blob/main/ButtonBoard.png)
