@@ -5,7 +5,7 @@ Version 1.1 is for Pokemon Red and Blue, and comes in a case with a blue BrainBo
 Version 2.0 is for Pokemon Gold and Silver, and comes in a case with a gold BrainBoy sticker/logo.
 Version 3.6 is for every Gameboy Pokemon edition, and comes in a case with a purple Monster Brain sticker/logo.
 
-All components labeled "Unknown" in the schematic were not present on the commercial PCB. Only their footprints existed.
+All components labeled "Unknown" in the schematic were not present on the commercial PCB. This PCB is used for both the Monster Brain and the Codebreaker, and the missing components are present when this board is used in a Codebreaker.
 
 The Colorizer button PCB wires solder to the inner two pads of the 4 at the rear top edge of the PCB.
 
