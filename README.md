@@ -1,5 +1,5 @@
 # G0-022M6-Pelican-Monster-Brain-for-GBC
-The schematics, PCB, and flash dumps of two versions of the GBC Pelican Monster Brain.
+The schematics, PCB, and flash dumps of three versions of the GBC Pelican Monster Brain.
 
 Version 1.1 is for Pokemon Red and Blue, and comes in a case with a blue BrainBoy sticker/logo.
 Version 2.0 is for Pokemon Gold and Silver, and comes in a case with a gold BrainBoy sticker/logo.
