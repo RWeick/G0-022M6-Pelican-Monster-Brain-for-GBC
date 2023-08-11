@@ -18,13 +18,11 @@ Jumper configuration for normal operation:
 
 The CPLD functions I've been able to deduce are as follows:
 
-The bank write address to change banks is 0xA000.
+A read must be performed at address 0x100 in order to enable address banking in the CPLD.
 
-The full rom is available from 0x4000 to 0x5FFF by switching either 32 or 64 banks depending on the device. The blue label Brainboy has 64 banks, and the rest of the devices use 32 banks due to smaller eeproms.
+The write address to change banks is 0xA000.
 
-To enable access to the full rom, dummy reads must be performed to mirror the initial boot reads for the logo, as well as reading 64 KB from 0x0 to 0x1FFF and 64 KB from 0x2000 to 0x3FFF using bank switching. 
-
-It is likely that not all of these reads are necessary, but I have not yet determined which specific reads in those ranges are the actual triggers.
+The full rom is available from 0x2000 to 0x3FFF by switching either 32 or 64 banks depending on the device. The blue label Brainboy has 64 banks, and the rest of the devices use 32 banks due to smaller eeproms. The maximum known EEPROM size included with an off the shelf device is 512 KB.
 
 PCB Thickness: 0.8 mm
 
