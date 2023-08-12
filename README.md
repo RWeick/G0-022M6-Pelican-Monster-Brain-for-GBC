@@ -7,6 +7,8 @@ Version 3.6 is for every Gameboy Pokemon edition, and comes in a case with a pur
 
 All components labeled "Unknown" in the schematic were not present on the commercial PCB. This PCB is used for both the Monster Brain and the Codebreaker, and the missing components are present when this board is used in a Codebreaker.
 
+The CPLD is the same between all devices.
+
 The Colorizer button PCB wires solder to the inner two pads of the 4 at the rear top edge of the PCB.
 
 Jumper configuration for normal operation: 
